@@ -1,5 +1,6 @@
 # Emotion Detection Using Facial Expression
-
+- The below blurbs are from the original ![repo](https://github.com/Aryavir07/Facial-Emotions-Recognition). The relevant README.md can be found in the Model Notebooks folder.
+- The `Results` folder contains the PDFs of the Jupyter Notebooks in the `Model Notebooks` folder as there is an issue loading from Colab. 
 ## Project Overview
 - The aim of project is to classify people's emotions based on their face images.
 - Project is divided into two parts which is combined to give output:
